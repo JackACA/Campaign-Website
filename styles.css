@@ -24,6 +24,7 @@
     font-family: 'ZCOOL QingKe HuangYou', cursive;
     padding: 10px;
     margin: 10px;
+    color: white;
 }
 
 button {
@@ -44,6 +45,12 @@ img {
     justify-content: space-around;
 }
 
+.bio {
+    text-align: center;
+    font-family: 'ZCOOL QingKe HuangYou', cursive;
+    color: white;
+}
 
-
-
+body {
+    background-color: black;
+}
